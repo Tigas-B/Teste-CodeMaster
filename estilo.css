@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: rgb(68, 68, 68);
+    margin: 0px;
+    box-sizing: border-box;
+    color: white;
+}
+
+main div{
+    padding: 20px;
+    margin: auto;
+    border: 3px solid red;
+    width: 400px;
+    margin-bottom: 50px;
+}
